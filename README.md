@@ -1,5 +1,4 @@
-# Simulation modeling in research and development of information systems
- Спецкурс кафедры АСВК "Имитационное моделирование в исследовании и разработке информационных систем"
+## Special course of the ASVK department "Simulation in the research and development of information systems"
  
- Вариант 2
  
+Option 2
